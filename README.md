@@ -14,10 +14,9 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (for now)
 - 🗡 Pygame Fighting Game
 - 🐍 Python Snake Game
-- 🔐 Message Encryption (coming soon)
 
 ---
 
